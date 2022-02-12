@@ -1,21 +1,170 @@
-# 💫About Me :
-Pray The Sun!
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pad2002/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sosmoothy/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/SoSmoothies) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCgr-jZH2SeNqDHHTXsCw-bg) 
+## 👀 About me
+<div align="center">
+  <img alt="age" src="https://img.shields.io/badge/Age-12-blue">
+  <img alt="age" src="https://img.shields.io/badge/Lives-Viet%20Nam-success">
+  <img alt="language" src="https://img.shields.io/badge/Languages-English%20%26%20Vietnam-brightgreen">
+  <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
+</div>
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sonicname&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sonicname&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+```typescript
+type Human = {
+    name: string;
+    gender: "Male" | "Female";
+    age: number;
+    nationality: string;
+    birthday: Date;
+    address: string,
+    programming_language: Array<string>;
+    email: Array<string>;
+    bio: string
+}
 
-### ✍️Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+const phamanhduc: Human = {
+    name: "Pham Anh Duc",
+    gender: "Male",
+    age: 19,
+    nationality: "Vietnam",
+    birthday: new Date(2002, 9, 30),
+    address: "Ha Noi",
+    programming_language: ["Javascript, Typescript, C++, C#, Java"],
+    email: ["phamanhduc2k2@gmail.com", "padding2k2@gmail.com"],
+    bio: "A Fresher Web Dev From Earth"
+}
 
-### 😂WTF
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+const sayHello = (person: Human) => {
+    console.log(`${person.name} say: Hello World!`);
+}
 
----
-[![](https://visitcount.itsvg.in/api?id=sonicname&icon=0&color=10)](https://visitcount.itsvg.in)
+sayHello(phamanhduc);
+```
+
+## 🛠️ My Skills
+### 👨‍💻 Programming languages
+<p align="left">
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   </a>
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 👷‍♂️ Frontend
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+   </a>
+   &emsp;
+   <a href="https://sass-lang.com/guide" target="_blank"> 
+     <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+   </a>
+   &emsp;
+   <a href="#" target="_blank"> 
+     <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
+  &emsp;
+  <a href="#" target="_blank">
+     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 🕵️‍♂️ Backend
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+   </a>
+  &emsp;
+</p>
+
+### ☁️ Databases and Cloud
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 📝 IDE and Code Editor
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+   </a>
+</p>
+
+### 📱 My OS
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 🐱My Github stats:
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=sonicname&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sosmoothy">
+  &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonicname&theme=algolia" alt="sosmoothy">
+</div>
