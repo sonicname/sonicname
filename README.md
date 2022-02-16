@@ -4,7 +4,7 @@
 
 ## 👀 About me
 <div align="center">
-  <img alt="age" src="https://img.shields.io/badge/Age-12-blue">
+  <img alt="age" src="https://img.shields.io/badge/Age-21-blue">
   <img alt="age" src="https://img.shields.io/badge/Lives-Viet%20Nam-success">
   <img alt="language" src="https://img.shields.io/badge/Languages-English%20%26%20Vietnam-brightgreen">
   <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
