@@ -1,10 +1,12 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2>Welcome <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+  </h2>
+  <img src="/assets/intro.png">
 </div>
 
 ## 👀 About me
 <div align="center">
-  <img alt="age" src="https://img.shields.io/badge/Age-21-blue">
+  <img alt="age" src="https://img.shields.io/badge/Age-20-blue">
   <img alt="age" src="https://img.shields.io/badge/Lives-Viet%20Nam-success">
   <img alt="language" src="https://img.shields.io/badge/Languages-English%20%26%20Vietnam-brightgreen">
   <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
@@ -34,12 +36,6 @@ const phamanhduc: Human = {
     email: ["phamanhduc2k2@gmail.com", "padding2k2@gmail.com"],
     bio: "A Fresher Web Dev From Earth"
 }
-
-const sayHello = (person: Human) => {
-    console.log(`${person.name} say: Hello World!`);
-}
-
-sayHello(phamanhduc);
 ```
 
 ## 🛠️ My Skills
