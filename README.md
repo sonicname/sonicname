@@ -10,31 +10,6 @@
   <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
 </div>
 
-```typescript
-type Human = {
-    name: string;
-    gender: "Male" | "Female";
-    age: number;
-    nationality: string;
-    birthday: Date;
-    address: string,
-    programming_language: Array<string>;
-    email: Array<string>;
-    bio: string
-}
-
-const phamanhduc: Human = {
-    name: "Pham Anh Duc",
-    gender: "Male",
-    age: 19,
-    nationality: "Vietnam",
-    birthday: new Date(2002, 9, 30),
-    address: "Ha Noi",
-    programming_language: ["Javascript, Typescript, C++, C#, Java"],
-    email: ["phamanhduc2k2@gmail.com", "padding2k2@gmail.com"],
-    bio: "A Fresher Web Dev From Earth"
-}
-```
-<div align="left">
+<div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
 </div>
