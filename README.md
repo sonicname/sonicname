@@ -1,15 +1,11 @@
+<h1 align="center">Hi 👋, I'm Pham Anh Duc</h1>
+<h3 align="center">A Frontend Developer From Ha Nam, Vietnam</h3>
 <div align="center">
-  <h2>Welcome <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-  </h2>
-  <img src="/assets/intro.png">
-</div>
-<div align="center">
-  <img alt="age" src="https://img.shields.io/badge/Age-20-blue">
-  <img alt="age" src="https://img.shields.io/badge/Lives-Viet%20Nam-success">
-  <img alt="language" src="https://img.shields.io/badge/Languages-English%20%26%20Vietnam-brightgreen">
-  <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
+<img src="/assets/intro.png">
 </div>
 
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
-</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonicname" alt="sonicname" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonicname&show_icons=true&locale=en&layout=compact" alt="sonicname" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonicname&show_icons=true&locale=en" alt="sonicname" /></p>
