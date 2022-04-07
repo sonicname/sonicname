@@ -97,66 +97,7 @@ const phamanhduc: Human = {
   &emsp;
 </p>
 
-### 🕵️‍♂️ Backend
-<p align="left">
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-   </a>
-  &emsp;
-</p>
-
-### ☁️ Databases and Cloud
-<p align="left">
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   </a>
-  &emsp;
-</p>
-
-### 📝 IDE and Code Editor
-<p align="left">
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="IDE" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="IDE" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="IDE" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
-   </a>
-</p>
-
-### 📱 My OS
-<p align="left">
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-   </a>
-  &emsp;
-  <a href="#" target="_blank"> 
-     <img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-   </a>
-  &emsp;
-</p>
-
 ### 🐱My Github stats:
-<div align="center">
+<div align="left">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
 </div>
