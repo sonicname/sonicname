@@ -1,6 +1,20 @@
-<h1 align="center">Hi 👋, I'm Pham Anh Duc</h1>
-<h3 align="center">A Frontend Developer From Ha Nam, Vietnam</h3>
+### Hi there 👋, my name is Pham Anh Duc!
+#### I am frontend developer from Vietnam!
+![I am frontend developer from Vietnam!](https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonicname&show_icons=true&locale=en&layout=compact" alt="sonicname" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonicname&show_icons=true&locale=en" alt="sonicname" /></p>
+- 🌱 I’m currently learning ReactJS, Golang, Web Design 
+- 📫 How to reach me: phamanhduc2k2@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sonicname)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicname)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicname&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sonicname)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sonicname)  
+
+![Profile views](https://gpvc.arturio.dev/sonicname)  
