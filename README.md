@@ -32,7 +32,7 @@ const phamanhduc: Human = {
     address: "Ha Noi",
     programming_language: ["Javascript, Typescript, C++, C#, Java"],
     email: ["phamanhduc2k2@gmail.com", "padding2k2@gmail.com"],
-    bio: "A Fresher Web Dev From Earth"
+    bio: "A Frontend Dev From Earth"
 }
 ```
 
